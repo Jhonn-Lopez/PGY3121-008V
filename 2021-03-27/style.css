@@ -9,3 +9,19 @@
 .purpura{
     color: rebeccapurple;
 }
+
+.grosor-fuente{
+    font-weight: bold;
+}
+
+body{
+    background-color: wheat;
+}
+
+img{
+
+    float: right;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
